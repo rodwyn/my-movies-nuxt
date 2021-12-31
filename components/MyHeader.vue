@@ -1,6 +1,6 @@
 <template>
   <div>
-      <b-navbar>
+      <b-navbar variant="dark" type="light">
           <nuxt-link to="/"  class="navbar-bran text-white">My Movies</nuxt-link>
       </b-navbar>
   </div>
